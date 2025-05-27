@@ -18,17 +18,6 @@ The project is built using **NX**, **React**, **Express**, **TanStack Start**, a
 
 ---
 
-## 📜 How Tool Calls Work (Reference from the Build Walkthrough)
-
-- **04:12** – Creating a Server Tool  
-- **07:16** – Creating a Client Tool  
-- **10:06** – Creating an MCP Server  
-- **13:52** – Creating an MCP Client  
-- **15:27** – Using STDIO Transport  
-- **17:20** – Claude Rocking The BI 🎸  
-
----
-
 ## 🏗️ Tech Stack
 
 - Monorepo: [NX](https://nx.dev)  
